@@ -1,0 +1,31 @@
+{"school":"singalovski"
+[
+{"class":"firstGrade"
+	
+	[{  "studentName":"shai","grades":
+	["math":90,"clang":80,"sport":100]  }
+
+	{ "studentName":"yossi","grades":
+	["math":90,"clang":80,"sport":100]  }
+
+	{ "studentName":"shalom","grades":
+	["math":90,"clang":80,"sport":100]  }   
+
+	]}
+
+	{"class":"secondGrade"
+	
+	[{ "studentName":"shai","grades":
+	["math":90,"clang":80,"sport":100]  }
+
+	{ "studentName":"yossi","grades":
+	["math":90,"clang":80,"sport":100]  }
+
+	{ "studentName":"shalom","grades":
+	["math":90,"clang":80,"sport":100]  }
+	
+	]}
+
+]
+
+}

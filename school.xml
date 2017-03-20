@@ -1,0 +1,34 @@
+<school>
+<class1>
+	<student>
+		<name>shai</name>
+		 <grades><math>100</math>
+		 <clang>80</clang>
+		 <sport>100</sport>
+		 </grades>
+		 </student>
+	<student>
+		 <name>dor</name>
+		 <grades><math>100</math>
+		 <clang>80</clang>
+		 <sport>100</sport>
+		 </grades>
+	</student>
+</class1>
+<class2>
+	<student>
+		<name>tamir</name>
+		 <grades><math>100</math>
+		 <clang>80</clang>
+		 <sport>100</sport>
+		 </grades>
+		 </student>
+	<student>
+		 <name>shimon</name>
+		 <grades><math>100</math>
+		 <clang>80</clang>
+		 <sport>100</sport>
+		 </grades>
+	</student>
+</class2>
+</school>
